@@ -7,7 +7,7 @@
 > * 茶的信息
 > * 撰写发布学术论文（LaTeX 公式支持）
 
-![Vditor-markdown-logo](https://b3logfile.com/tag/Vditor-PE4wB9G.png?imageView2/2/w/96/h/96/q/100)
+
 --------------------
 
 ## 茶树的演化
